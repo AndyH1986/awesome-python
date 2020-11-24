@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+# bitte sende eine E-mail an lieblings_kollege@firma.com
+
 ## Guideline
 
 * Add one link per Pull Request.
